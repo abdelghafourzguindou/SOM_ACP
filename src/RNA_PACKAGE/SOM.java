@@ -3,7 +3,7 @@ package RNA_PACKAGE;
 import ACP_PACKAGE.Matrix;
 
 public class SOM {
-
+	//constructor
     public SOM() {
         // TODO Auto-generated constructor stub
     }
